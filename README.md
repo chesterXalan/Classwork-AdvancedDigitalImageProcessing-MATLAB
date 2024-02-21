@@ -1,3 +1,3 @@
 # Classwork-AdvancedDigitalImageProcessing-MATLAB
 
-Classworks from Advanced Digital Image Processing in MATLAB.
+The classwork from Advanced Digital Image Processing in MATLAB.
